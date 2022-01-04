@@ -1,0 +1,33 @@
+{
+    "posts": [{
+            "title": "Welcome Sirsr",
+            "body": "Lorema Ipsuma yu ayayaLorema Ipsuma yu ayayaLorema Ipsuma yu ayayaLorema Ipsuma yu ayayaLorema Ipsuma yu ayayaLorema Ipsuma yu ayaya",
+            "id": 1,
+            "tags": [
+                "Vuex",
+                "Jquery",
+                "Photoshop"
+            ]
+        },
+        {
+            "title": "A man against himself",
+            "body": "Lorema Ipsuma yu ayaya 2Lorema Ipsuma yu ayaya 2Lorema Ipsuma yu ayaya 2Lorema Ipsuma yu ayaya 2Lorema Ipsuma yu ayaya 22 yhad",
+            "id": 2,
+            "tags": [
+                "css",
+                "Js",
+                "Vue3"
+            ]
+        },
+        {
+            "title": "Bahaa Taher",
+            "body": "Melabesaya Ponopnay Melabesaya aPonopnaya MelabesayaPonopnaya Melabesaya Melabesaya Melabesaya Ponopnaya",
+            "id": 3,
+            "tags": [
+                "PHP",
+                "MySql",
+                "Docker"
+            ]
+        }
+    ]
+}
