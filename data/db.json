@@ -15,7 +15,7 @@
             "id": 2,
             "tags": [
                 "css",
-                "Js",
+                "PHP",
                 "Vue3"
             ]
         },
@@ -28,6 +28,14 @@
                 "MySql",
                 "Docker"
             ]
+        },
+        {
+            "title": "Hamza Under the bridge",
+            "body": "Loreamo hamza el shakhar was born on 22-11-2021",
+            "tags": [
+                "BAVETa"
+            ],
+            "id": 4
         }
     ]
 }
