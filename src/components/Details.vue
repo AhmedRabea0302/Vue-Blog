@@ -28,6 +28,7 @@ export default {
 
         const { post, error, load } = getPost(route.params.id);
         load();
+        console.log(route.path);
         return { post, error, load}
     }
 }

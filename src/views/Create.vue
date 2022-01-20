@@ -30,7 +30,6 @@ export default {
 
         const router = useRouter();
 
-
         const handleKeyDown = (e) => {
             if(!tags.value.includes(tag.value)) {
                 tags.value.push(tag.value.trim());
